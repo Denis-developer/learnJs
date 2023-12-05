@@ -1,6 +1,6 @@
 'use strict';
 
-const num = 5;
+const num = 4;
 
 console.log(num);
 
