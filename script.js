@@ -43,3 +43,6 @@ personalMovieDB.movies[lastMovie2] = lastMovieGrade2;
 
 console.log(personalMovieDB);
 
+let str = "New branch";
+
+let longStr = "dsadas";
